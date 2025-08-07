@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "phone": "123-456-7890",
+    "status": "New",
+    "leadSource": "Website",
+    "createdDate": "2025-08-01"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "phone": "987-654-3210",
+    "status": "In Progress",
+    "leadSource": "Referral",
+    "createdDate": "2025-08-02"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Lee",
+    "email": "charlie@example.com",
+    "phone": "555-123-4567",
+    "status": "Converted",
+    "leadSource": "Ad Campaign",
+    "createdDate": "2025-08-03"
+  }
+]
